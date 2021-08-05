@@ -1,0 +1,172 @@
+[30-Mar-2020 22:03:32 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/caminhoes/veiculo/103/7649.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[31-Mar-2020 10:39:57 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/motos/veiculo/64/5044.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 08:39:21 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/56/.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 08:44:30 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/56/4860.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 09:12:28 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculos/null.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 09:15:23 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/null/8243.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 09:15:23 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/8243.json): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 23:18:48 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/2484.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 23:24:31 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/7066.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 23:24:54 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/8512.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 23:25:04 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/7065.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 23:25:16 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/8511.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 23:25:25 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/8985.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 23:25:36 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/8512.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 23:25:42 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/7066.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[03-Apr-2020 23:25:59 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/8512.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[04-Apr-2020 07:12:29 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/23/7491.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:15:01 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/22/1035.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:15:10 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/23/8323.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:15:44 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/23/2382.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:16:02 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/23/2383.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:16:10 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/23/2384.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:16:16 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/23/2385.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:16:28 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/23/2386.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:16:57 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/23/6280.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:17:13 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/23/9015.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:17:16 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/22/7827.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:17:24 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/22/7618.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:20:25 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/22/8080.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:28:27 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/7691.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:29:37 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/6234.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:30:04 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/6531.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:35:58 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/26/4411.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:36:00 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/4411.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:37:05 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/26/1216.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:37:06 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/1216.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:37:07 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/41/1216.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:37:39 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/26/1219.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:37:41 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/1219.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:37:42 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/41/1219.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:39:54 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/56/2385.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:47:14 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:52:25 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/22/.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 09:59:32 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/5069.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:00:41 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/6639.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:00:56 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/5069.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:01:42 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/5070.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:02:06 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/5069.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:02:17 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/5070.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:02:24 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/5069.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:02:26 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/931.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:02:29 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/6265.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:02:38 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/6638.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:02:48 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/6639.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:02:56 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/5722.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:03:04 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/931.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:03:04 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/21/4924.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:03:19 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/5722.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:04:41 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/1271.json): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:07:44 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculos/.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:08:09 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/22/4974.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:08:10 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo//4974.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:08:10 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/22/4974.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:08:58 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/22/4971.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:08:59 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo//4971.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:08:59 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/22/4971.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:10:32 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/25/5193.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:11:34 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/56/1270.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:12:00 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/56/1272.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:12:11 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/56/4629.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:12:39 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/56/6535.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:12:50 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/56/4630.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:13:06 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/56/8282.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:13:42 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/48/4984.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 10:40:35 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/48/7691.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 15:20:16 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/motos/marcas.json): failed to open stream: Network is unreachable in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 15:20:55 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/motos/marcas.json): failed to open stream: Network is unreachable in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 15:22:40 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/motos/veiculo/118/6282.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 21:17:47 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/motos/veiculo/80/7471.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 21:18:00 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/motos/veiculo/80/6765.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 21:19:53 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/motos/veiculo/77/6282.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 22:14:00 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/43/195.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 22:14:24 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/43/5608.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 22:14:34 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/43/4241.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 22:17:56 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/43/9038.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[08-Apr-2020 22:20:31 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/43/8776.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
+[09-Apr-2020 15:07:10 America/New_York] PHP Warning:  file_get_contents(https://fipeapi.appspot.com/api/1/carros/veiculo/185/.json): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/nfegpfiv/public_html/class/classFipe.php on line 11
